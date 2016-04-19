@@ -25,4 +25,4 @@ Contains the numerical solvers used in the alternate optimization problem: FISTA
 ###utils/
 Contains useful functions for the toolbox, such as error measures, parameter estimation and initialization strategies, etc.
 ##References
-[1] R. Pena, X. Bresson, and P. Vandergheynst. "Source Localization on Graphs via l1 Regularization and Spectral Graph Theory." On [arXiv](arXiv:1603.07584).
+[1] R. Pena, X. Bresson, and P. Vandergheynst. "Source Localization on Graphs via l1 Regularization and Spectral Graph Theory." On [arXiv](http://arxiv.org/abs/1603.07584).
