@@ -1,7 +1,7 @@
 # src-localization-graphs
 MATLAB implementation of an algorithm for source localization on graphs via l1 regularization and spectral graph theory. As presented in our paper:
 
-R. Pena, X. Bresson, and P. Vandergheynst. "Source Localization on Graphs via l1 Regularization and Spectral Graph Theory." On [arXiv][arxiv].
+R. Pena, X. Bresson, and P. Vandergheynst. ["Source Localization on Graphs via l1 Regularization and Spectral Graph Theory"][arxiv]. 12th IEEE Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2016.
 
 The code is released under the terms of the [MIT license](LICENSE.txt). Please cite the paper above if you use it.
 
@@ -57,6 +57,6 @@ To use the source localization algorithms on your data, you'll need:
 See any of [demos](https://github.com/rodrigo-pena/src-localization-graphs/tree/master/demos) for examples on how to call the methods. Please get in touch if you are unsure about how to adapt the code to your settings.
 
 ## References
-R. Pena, X. Bresson, and P. Vandergheynst. "Source Localization on Graphs via l1 Regularization and Spectral Graph Theory." On [arXiv][arxiv].
+R. Pena, X. Bresson, and P. Vandergheynst. ["Source Localization on Graphs via l1 Regularization and Spectral Graph Theory"][arxiv]. 12th IEEE Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2016.
 
-[arxiv]: http://arxiv.org/abs/1603.07584.
+[arxiv]: https://arxiv.org/abs/1603.07584
