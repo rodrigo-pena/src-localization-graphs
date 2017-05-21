@@ -29,7 +29,7 @@ If you want to work with John Snow's GIS, or the ETEX data (as used in the [pape
 
 ## Folders
 ### [root](https://github.com/rodrigo-pena/src-localization-graphs)
-Contains the main functions of the toolbox. Use function **alt\_opt.m** to simultaneously learn the source locations and the diffusion kernel. If the source locations are known, use **learn\_param\_kernel.m** to learn the diffusion kernel. If the diffusion kernel is known, use **learn\_sparse\_signal.m** to learn the source locations.
+Contains the main functions of the toolbox. Use function [alt_opt.m](https://github.com/rodrigo-pena/src-localization-graphs/blob/master/alt_opt.m) to simultaneously learn the source locations and the diffusion kernel. If the source locations are known, use [learn_param_kernel.m](https://github.com/rodrigo-pena/src-localization-graphs/blob/master/learn_param_kernel.m) to learn the diffusion kernel. If the diffusion kernel is known, use [learn_sparse_signal.m](https://github.com/rodrigo-pena/src-localization-graphs/blob/master/learn_sparse_signal.m) to learn the source locations.
 
 ### [3rd_party/](https://github.com/rodrigo-pena/src-localization-graphs/tree/master/3rd_party)
 Contains a third party function to plot error bars over a surface embedded in 3-dimensional space. Used only in [testbench.m](https://github.com/rodrigo-pena/src-localization-graphs/blob/master/experiments/testbench.m).
