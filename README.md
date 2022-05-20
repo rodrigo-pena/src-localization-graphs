@@ -5,6 +5,8 @@ R. Pena, X. Bresson, and P. Vandergheynst. ["Source Localization on Graphs via l
 
 The code is released under the terms of the [MIT license](LICENSE.txt). Please cite the paper above if you use it.
 
+[![DOI](https://zenodo.org/badge/54215534.svg)](https://zenodo.org/badge/latestdoi/54215534)
+
 ## Requirements
 Make sure to download and install the following toolboxes:
 * [GSPBox](https://lts2.epfl.ch/gsp/)
